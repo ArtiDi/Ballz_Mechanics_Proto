@@ -1,0 +1,1905 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-03-21T12:50:12.273+02:00
+  initializedAtString: 2019-03-21T12:46:24.838+02:00
+  log:
+  - commitID: 37356891c9fdf18a57d75fbb62e2599cb51390e2
+    mergeA: 
+    mergeB: 
+    authorName: Artem Dmytrenko
+    authorEmail: art.v.dmytrenko@gmail.com
+    commitEmail: art.v.dmytrenko@gmail.com
+    commitName: Artem Dmytrenko
+    summary: UploadCommit
+    description: UploadCommit
+    timeString: 2019-03-21T12:48:11.000+02:00
+    commitTimeString: 2019-03-21T12:48:11.000+02:00
+    changes:
+    - path: Assets\Ballz_Mechanics.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics.meta
+      projectPath: Assets\Ballz_Mechanics.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Ballz_Scene.unity
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Ballz_Scene.unity
+      projectPath: Assets\Ballz_Mechanics\Ballz_Scene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Ballz_Scene.unity.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Ballz_Scene.unity.meta
+      projectPath: Assets\Ballz_Mechanics\Ballz_Scene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Materials.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Materials.meta
+      projectPath: Assets\Ballz_Mechanics\Materials.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Materials\FireballMaterial.mat
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Materials\FireballMaterial.mat
+      projectPath: Assets\Ballz_Mechanics\Materials\FireballMaterial.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Materials\FireballMaterial.mat.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Materials\FireballMaterial.mat.meta
+      projectPath: Assets\Ballz_Mechanics\Materials\FireballMaterial.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Materials\LaunchPathLineMaterial.mat
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Materials\LaunchPathLineMaterial.mat
+      projectPath: Assets\Ballz_Mechanics\Materials\LaunchPathLineMaterial.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Materials\LaunchPathLineMaterial.mat.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Materials\LaunchPathLineMaterial.mat.meta
+      projectPath: Assets\Ballz_Mechanics\Materials\LaunchPathLineMaterial.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\PhysicsMaterials.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\PhysicsMaterials.meta
+      projectPath: Assets\Ballz_Mechanics\PhysicsMaterials.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\PhysicsMaterials\Ball.physicsMaterial2D
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\PhysicsMaterials\Ball.physicsMaterial2D
+      projectPath: Assets\Ballz_Mechanics\PhysicsMaterials\Ball.physicsMaterial2D
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\PhysicsMaterials\Ball.physicsMaterial2D.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\PhysicsMaterials\Ball.physicsMaterial2D.meta
+      projectPath: Assets\Ballz_Mechanics\PhysicsMaterials\Ball.physicsMaterial2D.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Prefabs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Prefabs.meta
+      projectPath: Assets\Ballz_Mechanics\Prefabs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Prefabs\BlockPrefab.prefab
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Prefabs\BlockPrefab.prefab
+      projectPath: Assets\Ballz_Mechanics\Prefabs\BlockPrefab.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Prefabs\BlockPrefab.prefab.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Prefabs\BlockPrefab.prefab.meta
+      projectPath: Assets\Ballz_Mechanics\Prefabs\BlockPrefab.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Prefabs\SimpleBall.prefab
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Prefabs\SimpleBall.prefab
+      projectPath: Assets\Ballz_Mechanics\Prefabs\SimpleBall.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Prefabs\SimpleBall.prefab.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Prefabs\SimpleBall.prefab.meta
+      projectPath: Assets\Ballz_Mechanics\Prefabs\SimpleBall.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Scripts.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Scripts.meta
+      projectPath: Assets\Ballz_Mechanics\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Scripts\Ball.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Scripts\Ball.cs
+      projectPath: Assets\Ballz_Mechanics\Scripts\Ball.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Scripts\Ball.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Scripts\Ball.cs.meta
+      projectPath: Assets\Ballz_Mechanics\Scripts\Ball.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Scripts\BallLauncherScript.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Scripts\BallLauncherScript.cs
+      projectPath: Assets\Ballz_Mechanics\Scripts\BallLauncherScript.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Scripts\BallLauncherScript.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Scripts\BallLauncherScript.cs.meta
+      projectPath: Assets\Ballz_Mechanics\Scripts\BallLauncherScript.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Scripts\BlockBrush.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Scripts\BlockBrush.asset
+      projectPath: Assets\Ballz_Mechanics\Scripts\BlockBrush.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Scripts\BlockBrush.asset.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Scripts\BlockBrush.asset.meta
+      projectPath: Assets\Ballz_Mechanics\Scripts\BlockBrush.asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Scripts\BlockScript.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Scripts\BlockScript.cs
+      projectPath: Assets\Ballz_Mechanics\Scripts\BlockScript.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Scripts\BlockScript.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Scripts\BlockScript.cs.meta
+      projectPath: Assets\Ballz_Mechanics\Scripts\BlockScript.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Scripts\BoundariesLocate.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Scripts\BoundariesLocate.cs
+      projectPath: Assets\Ballz_Mechanics\Scripts\BoundariesLocate.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Scripts\BoundariesLocate.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Scripts\BoundariesLocate.cs.meta
+      projectPath: Assets\Ballz_Mechanics\Scripts\BoundariesLocate.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Scripts\ExitGameScript.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Scripts\ExitGameScript.cs
+      projectPath: Assets\Ballz_Mechanics\Scripts\ExitGameScript.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Scripts\ExitGameScript.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Scripts\ExitGameScript.cs.meta
+      projectPath: Assets\Ballz_Mechanics\Scripts\ExitGameScript.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Scripts\MainManagerScript.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Scripts\MainManagerScript.cs
+      projectPath: Assets\Ballz_Mechanics\Scripts\MainManagerScript.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Scripts\MainManagerScript.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Scripts\MainManagerScript.cs.meta
+      projectPath: Assets\Ballz_Mechanics\Scripts\MainManagerScript.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Scripts\RestartLevelScript.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Scripts\RestartLevelScript.cs
+      projectPath: Assets\Ballz_Mechanics\Scripts\RestartLevelScript.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Scripts\RestartLevelScript.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Scripts\RestartLevelScript.cs.meta
+      projectPath: Assets\Ballz_Mechanics\Scripts\RestartLevelScript.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Scripts\TriggerScript.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Scripts\TriggerScript.cs
+      projectPath: Assets\Ballz_Mechanics\Scripts\TriggerScript.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Scripts\TriggerScript.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Scripts\TriggerScript.cs.meta
+      projectPath: Assets\Ballz_Mechanics\Scripts\TriggerScript.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Shaders.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Shaders.meta
+      projectPath: Assets\Ballz_Mechanics\Shaders.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Shaders\FireBallShader.shadergraph
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Shaders\FireBallShader.shadergraph
+      projectPath: Assets\Ballz_Mechanics\Shaders\FireBallShader.shadergraph
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Shaders\FireBallShader.shadergraph.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Shaders\FireBallShader.shadergraph.meta
+      projectPath: Assets\Ballz_Mechanics\Shaders\FireBallShader.shadergraph.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Sprites.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Sprites.meta
+      projectPath: Assets\Ballz_Mechanics\Sprites.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Sprites\SimpleBall.png
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Sprites\SimpleBall.png
+      projectPath: Assets\Ballz_Mechanics\Sprites\SimpleBall.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Sprites\SimpleBall.png.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Sprites\SimpleBall.png.meta
+      projectPath: Assets\Ballz_Mechanics\Sprites\SimpleBall.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Sprites\SimpleBlock.png
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Sprites\SimpleBlock.png
+      projectPath: Assets\Ballz_Mechanics\Sprites\SimpleBlock.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Ballz_Mechanics\Sprites\SimpleBlock.png.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Ballz_Mechanics\Sprites\SimpleBlock.png.meta
+      projectPath: Assets\Ballz_Mechanics\Sprites\SimpleBlock.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro.meta
+      projectPath: Assets\TextMesh Pro.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Documentation.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Documentation.meta
+      projectPath: Assets\TextMesh Pro\Documentation.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Documentation\TextMesh Pro User Guide 2016.pdf
+      projectPath: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
+      projectPath: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources.meta
+      projectPath: Assets\TextMesh Pro\Resources.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Fonts & Materials.meta
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop
+        Shadow.mat
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop Shadow.mat
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Drop Shadow.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop
+        Shadow.mat.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop Shadow.mat.meta
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Drop Shadow.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Outline.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat.meta
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Outline.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF.asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\LineBreaking Following Characters.txt
+      projectPath: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\LineBreaking Following Characters.txt.meta
+      projectPath: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\LineBreaking Leading Characters.txt
+      projectPath: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\LineBreaking Leading Characters.txt.meta
+      projectPath: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_Bitmap.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_Bitmap.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_SDF Overlay.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_SDF Overlay.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_SDF-Mobile.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_SDF-Mobile.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_SDF-Surface.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_SDF-Surface.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_SDF.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_SDF.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_Sprite.shader
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMP_Sprite.shader.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMPro.cginc
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMPro.cginc.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMPro_Properties.cginc
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMPro_Properties.cginc.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMPro_Surface.cginc
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Shaders\TMPro_Surface.cginc.meta
+      projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Sprite Assets.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Sprite Assets.meta
+      projectPath: Assets\TextMesh Pro\Resources\Sprite Assets.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Sprite Assets\EmojiOne.asset
+      projectPath: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+      projectPath: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Style Sheets.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Style Sheets.meta
+      projectPath: Assets\TextMesh Pro\Resources\Style Sheets.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Style Sheets\Default Style Sheet.asset
+      projectPath: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
+      projectPath: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\TMP Settings.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\TMP Settings.asset
+      projectPath: Assets\TextMesh Pro\Resources\TMP Settings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Resources\TMP Settings.asset.meta
+      projectPath: Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Sprites.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Sprites.meta
+      projectPath: Assets\TextMesh Pro\Sprites.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Sprites\EmojiOne Attribution.txt
+      projectPath: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Sprites\EmojiOne Attribution.txt.meta
+      projectPath: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Sprites\EmojiOne.json
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Sprites\EmojiOne.json
+      projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Sprites\EmojiOne.json.meta
+      projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Sprites\EmojiOne.png
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Sprites\EmojiOne.png
+      projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\TextMesh
+        Pro\Sprites\EmojiOne.png.meta
+      projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap.meta
+      projectPath: Assets\Tilemap.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes.meta
+      projectPath: Assets\Tilemap\Brushes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Coordinate Brush.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Coordinate
+        Brush.meta
+      projectPath: Assets\Tilemap\Brushes\Coordinate Brush.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Coordinate Brush\Scripts.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Coordinate
+        Brush\Scripts.meta
+      projectPath: Assets\Tilemap\Brushes\Coordinate Brush\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Coordinate Brush\Scripts\Editor.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Coordinate
+        Brush\Scripts\Editor.meta
+      projectPath: Assets\Tilemap\Brushes\Coordinate Brush\Scripts\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Coordinate Brush\Scripts\Editor\CoordinateBrush.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Coordinate
+        Brush\Scripts\Editor\CoordinateBrush.cs
+      projectPath: Assets\Tilemap\Brushes\Coordinate Brush\Scripts\Editor\CoordinateBrush.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Coordinate Brush\Scripts\Editor\CoordinateBrush.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Coordinate
+        Brush\Scripts\Editor\CoordinateBrush.cs.meta
+      projectPath: Assets\Tilemap\Brushes\Coordinate Brush\Scripts\Editor\CoordinateBrush.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\GameObject Brush.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\GameObject
+        Brush.meta
+      projectPath: Assets\Tilemap\Brushes\GameObject Brush.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\GameObject Brush\Scripts.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\GameObject
+        Brush\Scripts.meta
+      projectPath: Assets\Tilemap\Brushes\GameObject Brush\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\GameObject Brush\Scripts\Editor.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\GameObject
+        Brush\Scripts\Editor.meta
+      projectPath: Assets\Tilemap\Brushes\GameObject Brush\Scripts\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\GameObject Brush\Scripts\Editor\GameObjectBrush.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\GameObject
+        Brush\Scripts\Editor\GameObjectBrush.cs
+      projectPath: Assets\Tilemap\Brushes\GameObject Brush\Scripts\Editor\GameObjectBrush.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\GameObject Brush\Scripts\Editor\GameObjectBrush.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\GameObject
+        Brush\Scripts\Editor\GameObjectBrush.cs.meta
+      projectPath: Assets\Tilemap\Brushes\GameObject Brush\Scripts\Editor\GameObjectBrush.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Group Brush.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Group
+        Brush.meta
+      projectPath: Assets\Tilemap\Brushes\Group Brush.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Group Brush\Scripts.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Group
+        Brush\Scripts.meta
+      projectPath: Assets\Tilemap\Brushes\Group Brush\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Group Brush\Scripts\Editor.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Group
+        Brush\Scripts\Editor.meta
+      projectPath: Assets\Tilemap\Brushes\Group Brush\Scripts\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Group Brush\Scripts\Editor\GroupBrush.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Group
+        Brush\Scripts\Editor\GroupBrush.cs
+      projectPath: Assets\Tilemap\Brushes\Group Brush\Scripts\Editor\GroupBrush.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Group Brush\Scripts\Editor\GroupBrush.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Group
+        Brush\Scripts\Editor\GroupBrush.cs.meta
+      projectPath: Assets\Tilemap\Brushes\Group Brush\Scripts\Editor\GroupBrush.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Line Brush.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Line
+        Brush.meta
+      projectPath: Assets\Tilemap\Brushes\Line Brush.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Line Brush\Scripts.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Line
+        Brush\Scripts.meta
+      projectPath: Assets\Tilemap\Brushes\Line Brush\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Line Brush\Scripts\Editor.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Line
+        Brush\Scripts\Editor.meta
+      projectPath: Assets\Tilemap\Brushes\Line Brush\Scripts\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Line Brush\Scripts\Editor\LineBrush.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Line
+        Brush\Scripts\Editor\LineBrush.cs
+      projectPath: Assets\Tilemap\Brushes\Line Brush\Scripts\Editor\LineBrush.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Line Brush\Scripts\Editor\LineBrush.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Line
+        Brush\Scripts\Editor\LineBrush.cs.meta
+      projectPath: Assets\Tilemap\Brushes\Line Brush\Scripts\Editor\LineBrush.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Prefab Brush.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Prefab
+        Brush.meta
+      projectPath: Assets\Tilemap\Brushes\Prefab Brush.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Prefab Brush\Scripts.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Prefab
+        Brush\Scripts.meta
+      projectPath: Assets\Tilemap\Brushes\Prefab Brush\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Prefab Brush\Scripts\Editor.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Prefab
+        Brush\Scripts\Editor.meta
+      projectPath: Assets\Tilemap\Brushes\Prefab Brush\Scripts\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Prefab Brush\Scripts\Editor\PrefabBrush.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Prefab
+        Brush\Scripts\Editor\PrefabBrush.cs
+      projectPath: Assets\Tilemap\Brushes\Prefab Brush\Scripts\Editor\PrefabBrush.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Prefab Brush\Scripts\Editor\PrefabBrush.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Prefab
+        Brush\Scripts\Editor\PrefabBrush.cs.meta
+      projectPath: Assets\Tilemap\Brushes\Prefab Brush\Scripts\Editor\PrefabBrush.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Prefab Brush\Scripts\Editor\PrefabBrush.zip
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Prefab
+        Brush\Scripts\Editor\PrefabBrush.zip
+      projectPath: Assets\Tilemap\Brushes\Prefab Brush\Scripts\Editor\PrefabBrush.zip
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Prefab Brush\Scripts\Editor\PrefabBrush.zip.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Prefab
+        Brush\Scripts\Editor\PrefabBrush.zip.meta
+      projectPath: Assets\Tilemap\Brushes\Prefab Brush\Scripts\Editor\PrefabBrush.zip.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Random Brush.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Random
+        Brush.meta
+      projectPath: Assets\Tilemap\Brushes\Random Brush.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Random Brush\Scripts.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Random
+        Brush\Scripts.meta
+      projectPath: Assets\Tilemap\Brushes\Random Brush\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Random Brush\Scripts\Editor.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Random
+        Brush\Scripts\Editor.meta
+      projectPath: Assets\Tilemap\Brushes\Random Brush\Scripts\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Random Brush\Scripts\Editor\RandomBrush.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Random
+        Brush\Scripts\Editor\RandomBrush.cs
+      projectPath: Assets\Tilemap\Brushes\Random Brush\Scripts\Editor\RandomBrush.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Random Brush\Scripts\Editor\RandomBrush.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Random
+        Brush\Scripts\Editor\RandomBrush.cs.meta
+      projectPath: Assets\Tilemap\Brushes\Random Brush\Scripts\Editor\RandomBrush.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Tint Brush Smooth.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Tint
+        Brush Smooth.meta
+      projectPath: Assets\Tilemap\Brushes\Tint Brush Smooth.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Tint Brush Smooth\Scripts.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Tint
+        Brush Smooth\Scripts.meta
+      projectPath: Assets\Tilemap\Brushes\Tint Brush Smooth\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Tint Brush Smooth\Scripts\Editor.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Tint
+        Brush Smooth\Scripts\Editor.meta
+      projectPath: Assets\Tilemap\Brushes\Tint Brush Smooth\Scripts\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Tint Brush Smooth\Scripts\Editor\TintBrushSmooth.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Tint
+        Brush Smooth\Scripts\Editor\TintBrushSmooth.cs
+      projectPath: Assets\Tilemap\Brushes\Tint Brush Smooth\Scripts\Editor\TintBrushSmooth.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Tint Brush Smooth\Scripts\Editor\TintBrushSmooth.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Tint
+        Brush Smooth\Scripts\Editor\TintBrushSmooth.cs.meta
+      projectPath: Assets\Tilemap\Brushes\Tint Brush Smooth\Scripts\Editor\TintBrushSmooth.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Tint Brush Smooth\Scripts\TintTextureGenerator.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Tint
+        Brush Smooth\Scripts\TintTextureGenerator.cs
+      projectPath: Assets\Tilemap\Brushes\Tint Brush Smooth\Scripts\TintTextureGenerator.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Tint Brush Smooth\Scripts\TintTextureGenerator.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Tint
+        Brush Smooth\Scripts\TintTextureGenerator.cs.meta
+      projectPath: Assets\Tilemap\Brushes\Tint Brush Smooth\Scripts\TintTextureGenerator.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Tint Brush Smooth\Shaders.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Tint
+        Brush Smooth\Shaders.meta
+      projectPath: Assets\Tilemap\Brushes\Tint Brush Smooth\Shaders.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Tint Brush Smooth\Shaders\TintedTilemap.shader
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Tint
+        Brush Smooth\Shaders\TintedTilemap.shader
+      projectPath: Assets\Tilemap\Brushes\Tint Brush Smooth\Shaders\TintedTilemap.shader
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Tint Brush Smooth\Shaders\TintedTilemap.shader.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Tint
+        Brush Smooth\Shaders\TintedTilemap.shader.meta
+      projectPath: Assets\Tilemap\Brushes\Tint Brush Smooth\Shaders\TintedTilemap.shader.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Tint Brush.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Tint
+        Brush.meta
+      projectPath: Assets\Tilemap\Brushes\Tint Brush.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Tint Brush\Scripts.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Tint
+        Brush\Scripts.meta
+      projectPath: Assets\Tilemap\Brushes\Tint Brush\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Tint Brush\Scripts\Editor.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Tint
+        Brush\Scripts\Editor.meta
+      projectPath: Assets\Tilemap\Brushes\Tint Brush\Scripts\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Tint Brush\Scripts\Editor\TintBrush.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Tint
+        Brush\Scripts\Editor\TintBrush.cs
+      projectPath: Assets\Tilemap\Brushes\Tint Brush\Scripts\Editor\TintBrush.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Brushes\Tint Brush\Scripts\Editor\TintBrush.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Brushes\Tint
+        Brush\Scripts\Editor\TintBrush.cs.meta
+      projectPath: Assets\Tilemap\Brushes\Tint Brush\Scripts\Editor\TintBrush.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\GridInformation.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\GridInformation.meta
+      projectPath: Assets\Tilemap\GridInformation.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\GridInformation\Scripts.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\GridInformation\Scripts.meta
+      projectPath: Assets\Tilemap\GridInformation\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\GridInformation\Scripts\GridInformation.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\GridInformation\Scripts\GridInformation.cs
+      projectPath: Assets\Tilemap\GridInformation\Scripts\GridInformation.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\GridInformation\Scripts\GridInformation.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\GridInformation\Scripts\GridInformation.cs.meta
+      projectPath: Assets\Tilemap\GridInformation\Scripts\GridInformation.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles.meta
+      projectPath: Assets\Tilemap\Tiles.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Animated Tile.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Animated
+        Tile.meta
+      projectPath: Assets\Tilemap\Tiles\Animated Tile.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Animated Tile\Scripts.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Animated
+        Tile\Scripts.meta
+      projectPath: Assets\Tilemap\Tiles\Animated Tile\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Animated Tile\Scripts\AnimatedTile.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Animated
+        Tile\Scripts\AnimatedTile.cs
+      projectPath: Assets\Tilemap\Tiles\Animated Tile\Scripts\AnimatedTile.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Animated Tile\Scripts\AnimatedTile.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Animated
+        Tile\Scripts\AnimatedTile.cs.meta
+      projectPath: Assets\Tilemap\Tiles\Animated Tile\Scripts\AnimatedTile.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Hexagonal Rule Tile.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Hexagonal
+        Rule Tile.meta
+      projectPath: Assets\Tilemap\Tiles\Hexagonal Rule Tile.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Hexagonal Rule Tile\Editor.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Hexagonal
+        Rule Tile\Editor.meta
+      projectPath: Assets\Tilemap\Tiles\Hexagonal Rule Tile\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Hexagonal Rule Tile\Editor\HexagonalRuleTileEditor.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Hexagonal
+        Rule Tile\Editor\HexagonalRuleTileEditor.cs
+      projectPath: Assets\Tilemap\Tiles\Hexagonal Rule Tile\Editor\HexagonalRuleTileEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Hexagonal Rule Tile\Editor\HexagonalRuleTileEditor.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Hexagonal
+        Rule Tile\Editor\HexagonalRuleTileEditor.cs.meta
+      projectPath: Assets\Tilemap\Tiles\Hexagonal Rule Tile\Editor\HexagonalRuleTileEditor.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Hexagonal Rule Tile\HexagonalRuleTile.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Hexagonal
+        Rule Tile\HexagonalRuleTile.cs
+      projectPath: Assets\Tilemap\Tiles\Hexagonal Rule Tile\HexagonalRuleTile.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Hexagonal Rule Tile\HexagonalRuleTile.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Hexagonal
+        Rule Tile\HexagonalRuleTile.cs.meta
+      projectPath: Assets\Tilemap\Tiles\Hexagonal Rule Tile\HexagonalRuleTile.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Isometric Rule Tile.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Isometric
+        Rule Tile.meta
+      projectPath: Assets\Tilemap\Tiles\Isometric Rule Tile.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Isometric Rule Tile\Editor.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Isometric
+        Rule Tile\Editor.meta
+      projectPath: Assets\Tilemap\Tiles\Isometric Rule Tile\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Isometric Rule Tile\Editor\IsometricRuleTileEditor.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Isometric
+        Rule Tile\Editor\IsometricRuleTileEditor.cs
+      projectPath: Assets\Tilemap\Tiles\Isometric Rule Tile\Editor\IsometricRuleTileEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Isometric Rule Tile\Editor\IsometricRuleTileEditor.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Isometric
+        Rule Tile\Editor\IsometricRuleTileEditor.cs.meta
+      projectPath: Assets\Tilemap\Tiles\Isometric Rule Tile\Editor\IsometricRuleTileEditor.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Isometric Rule Tile\IsometricRuleTile.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Isometric
+        Rule Tile\IsometricRuleTile.cs
+      projectPath: Assets\Tilemap\Tiles\Isometric Rule Tile\IsometricRuleTile.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Isometric Rule Tile\IsometricRuleTile.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Isometric
+        Rule Tile\IsometricRuleTile.cs.meta
+      projectPath: Assets\Tilemap\Tiles\Isometric Rule Tile\IsometricRuleTile.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Pipeline Tile.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Pipeline
+        Tile.meta
+      projectPath: Assets\Tilemap\Tiles\Pipeline Tile.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Pipeline Tile\Scripts.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Pipeline
+        Tile\Scripts.meta
+      projectPath: Assets\Tilemap\Tiles\Pipeline Tile\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Pipeline Tile\Scripts\PipelineTile.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Pipeline
+        Tile\Scripts\PipelineTile.cs
+      projectPath: Assets\Tilemap\Tiles\Pipeline Tile\Scripts\PipelineTile.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Pipeline Tile\Scripts\PipelineTile.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Pipeline
+        Tile\Scripts\PipelineTile.cs.meta
+      projectPath: Assets\Tilemap\Tiles\Pipeline Tile\Scripts\PipelineTile.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Random Tile.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Random
+        Tile.meta
+      projectPath: Assets\Tilemap\Tiles\Random Tile.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Random Tile\Scripts.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Random
+        Tile\Scripts.meta
+      projectPath: Assets\Tilemap\Tiles\Random Tile\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Random Tile\Scripts\RandomTile.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Random
+        Tile\Scripts\RandomTile.cs
+      projectPath: Assets\Tilemap\Tiles\Random Tile\Scripts\RandomTile.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Random Tile\Scripts\RandomTile.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Random
+        Tile\Scripts\RandomTile.cs.meta
+      projectPath: Assets\Tilemap\Tiles\Random Tile\Scripts\RandomTile.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Rule Override Tile.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Rule
+        Override Tile.meta
+      projectPath: Assets\Tilemap\Tiles\Rule Override Tile.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Rule Override Tile\Scripts.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Rule
+        Override Tile\Scripts.meta
+      projectPath: Assets\Tilemap\Tiles\Rule Override Tile\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Rule Override Tile\Scripts\Editor.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Rule
+        Override Tile\Scripts\Editor.meta
+      projectPath: Assets\Tilemap\Tiles\Rule Override Tile\Scripts\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Rule Override Tile\Scripts\Editor\RuleOverrideTileEditor.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Rule
+        Override Tile\Scripts\Editor\RuleOverrideTileEditor.cs
+      projectPath: Assets\Tilemap\Tiles\Rule Override Tile\Scripts\Editor\RuleOverrideTileEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Rule Override Tile\Scripts\Editor\RuleOverrideTileEditor.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Rule
+        Override Tile\Scripts\Editor\RuleOverrideTileEditor.cs.meta
+      projectPath: Assets\Tilemap\Tiles\Rule Override Tile\Scripts\Editor\RuleOverrideTileEditor.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Rule Override Tile\Scripts\RuleOverrideTile.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Rule
+        Override Tile\Scripts\RuleOverrideTile.cs
+      projectPath: Assets\Tilemap\Tiles\Rule Override Tile\Scripts\RuleOverrideTile.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Rule Override Tile\Scripts\RuleOverrideTile.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Rule
+        Override Tile\Scripts\RuleOverrideTile.cs.meta
+      projectPath: Assets\Tilemap\Tiles\Rule Override Tile\Scripts\RuleOverrideTile.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Rule Tile.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Rule
+        Tile.meta
+      projectPath: Assets\Tilemap\Tiles\Rule Tile.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Rule Tile\ScriptTemplates.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Rule
+        Tile\ScriptTemplates.meta
+      projectPath: Assets\Tilemap\Tiles\Rule Tile\ScriptTemplates.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Rule Tile\ScriptTemplates\NewCustomRuleTile.cs.txt
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Rule
+        Tile\ScriptTemplates\NewCustomRuleTile.cs.txt
+      projectPath: Assets\Tilemap\Tiles\Rule Tile\ScriptTemplates\NewCustomRuleTile.cs.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Rule Tile\ScriptTemplates\NewCustomRuleTile.cs.txt.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Rule
+        Tile\ScriptTemplates\NewCustomRuleTile.cs.txt.meta
+      projectPath: Assets\Tilemap\Tiles\Rule Tile\ScriptTemplates\NewCustomRuleTile.cs.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Rule Tile\Scripts.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Rule
+        Tile\Scripts.meta
+      projectPath: Assets\Tilemap\Tiles\Rule Tile\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Rule Tile\Scripts\Editor.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Rule
+        Tile\Scripts\Editor.meta
+      projectPath: Assets\Tilemap\Tiles\Rule Tile\Scripts\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Rule Tile\Scripts\Editor\CustomRuleTileMenu.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Rule
+        Tile\Scripts\Editor\CustomRuleTileMenu.cs
+      projectPath: Assets\Tilemap\Tiles\Rule Tile\Scripts\Editor\CustomRuleTileMenu.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Rule Tile\Scripts\Editor\CustomRuleTileMenu.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Rule
+        Tile\Scripts\Editor\CustomRuleTileMenu.cs.meta
+      projectPath: Assets\Tilemap\Tiles\Rule Tile\Scripts\Editor\CustomRuleTileMenu.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Rule Tile\Scripts\Editor\RuleTileEditor.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Rule
+        Tile\Scripts\Editor\RuleTileEditor.cs
+      projectPath: Assets\Tilemap\Tiles\Rule Tile\Scripts\Editor\RuleTileEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Rule Tile\Scripts\Editor\RuleTileEditor.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Rule
+        Tile\Scripts\Editor\RuleTileEditor.cs.meta
+      projectPath: Assets\Tilemap\Tiles\Rule Tile\Scripts\Editor\RuleTileEditor.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Rule Tile\Scripts\RuleTile.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Rule
+        Tile\Scripts\RuleTile.cs
+      projectPath: Assets\Tilemap\Tiles\Rule Tile\Scripts\RuleTile.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Rule Tile\Scripts\RuleTile.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Rule
+        Tile\Scripts\RuleTile.cs.meta
+      projectPath: Assets\Tilemap\Tiles\Rule Tile\Scripts\RuleTile.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Terrain Tile.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Terrain
+        Tile.meta
+      projectPath: Assets\Tilemap\Tiles\Terrain Tile.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Terrain Tile\Scripts.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Terrain
+        Tile\Scripts.meta
+      projectPath: Assets\Tilemap\Tiles\Terrain Tile\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Terrain Tile\Scripts\TerrainTile.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Terrain
+        Tile\Scripts\TerrainTile.cs
+      projectPath: Assets\Tilemap\Tiles\Terrain Tile\Scripts\TerrainTile.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Terrain Tile\Scripts\TerrainTile.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Terrain
+        Tile\Scripts\TerrainTile.cs.meta
+      projectPath: Assets\Tilemap\Tiles\Terrain Tile\Scripts\TerrainTile.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Weighted Random Tile.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Weighted
+        Random Tile.meta
+      projectPath: Assets\Tilemap\Tiles\Weighted Random Tile.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Weighted Random Tile\WeightedRandomTile.cs
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Weighted
+        Random Tile\WeightedRandomTile.cs
+      projectPath: Assets\Tilemap\Tiles\Weighted Random Tile\WeightedRandomTile.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tilemap\Tiles\Weighted Random Tile\WeightedRandomTile.cs.meta
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\Tilemap\Tiles\Weighted
+        Random Tile\WeightedRandomTile.cs.meta
+      projectPath: Assets\Tilemap\Tiles\Weighted Random Tile\WeightedRandomTile.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: d6ab55938ea969ae1162a11ff5efefe39b0da03f
+    mergeA: 
+    mergeB: 
+    authorName: Artem Dmytrenko
+    authorEmail: art.v.dmytrenko@gmail.com
+    commitEmail: art.v.dmytrenko@gmail.com
+    commitName: Artem Dmytrenko
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2019-03-21T12:46:23.000+02:00
+    commitTimeString: 2019-03-21T12:46:23.000+02:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\User\Documents\UnityProjects\Ballz_Mechanics_Proto\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0

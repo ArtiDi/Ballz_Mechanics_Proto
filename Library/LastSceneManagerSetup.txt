@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Ballz_Mechanics/Ballz_Scene.unity
+  isLoaded: 1
+  isActive: 1
