@@ -1,5 +1,6 @@
 # Ballz_Mechanics_Proto
 
+Unity 2018.3.9
 My attempt to implement mobile game Ballz-like mechanics.
 
 ToDO list:
